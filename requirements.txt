@@ -1,0 +1,33 @@
+# ============================================================================
+# RPA Orchestrator — Python dependencies (pinned for reproducible builds)
+# Install with:  pip install -r requirements.txt
+# ============================================================================
+
+# ── Web framework & API ──
+Django==6.0.6
+djangorestframework==3.17.1
+django-cors-headers==4.9.0
+whitenoise==6.12.0
+
+# ── Production WSGI server ──
+waitress==3.0.2
+
+# ── Database ──
+psycopg2-binary==2.9.11
+
+# ── Security / crypto ──
+cryptography==46.0.5
+Werkzeug==3.1.6          # password hashing (scrypt/pbkdf2)
+pyotp==2.9.0             # TOTP 2FA
+qrcode==8.2              # 2FA QR provisioning
+python-dotenv==1.2.2     # load .env configuration
+
+# ── Imaging (QR codes, tray icon) ──
+pillow==12.1.1
+
+# ── HTTP client (webhooks / update checks) ──
+requests==2.32.5
+
+# ── Error monitoring (optional) ──
+# Uncomment to enable Sentry reporting when SENTRY_DSN is set (see .env.example).
+# sentry-sdk==2.20.0
