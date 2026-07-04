@@ -1,6 +1,6 @@
 {
-  "latest_version": "10.0.1",
-  "download_url": "https://github.com/kasunvimukthi/Python-rpa-orchestrator/releases/download/v10.0.1/RPA_Orchestrator_Server_10.0.1.exe",
-  "sha256": "60a3a689876d5a24368884462613d76d3cf3b4942f2885efe1fa8cb107b2ec95",
-  "signature": "OIKggthh4YTXQwNddJ5FInSHosMFrbLVentatJGuGHDwngTz4xAWiYoWleOxE0FS21v/nYmoXmUCdXnXKw8XCQ=="
+  "latest_version": "10.1.0",
+  "download_url": "https://github.com/kasunvimukthi/Python-rpa-orchestrator/releases/download/v10.1.0/RPA_Orchestrator_Server_10.1.0.exe",
+  "sha256": "62bd35d85394ea5d496ecea9130fa3597a6b19813f7d0547b42bcece4145441e",
+  "signature": "spP8xZ1rV9EZfIv3Ke8xPWyT/6/Q03i683DLKDCL+YhTIdKcj7fExgAn0oCeF+RuJHBLVRVECMLoGC30IYnuBQ=="
 }
