@@ -1,6 +1,6 @@
 {
-  "latest_version": "22.2.1",
-  "download_url": "https://github.com/kasunvimukthi/Python-rpa-orchestrator/releases/download/v22.2.1/IHELM_Orchestrator_Server_22.2.1.exe",
-  "sha256": "79d0dc4b7533db8e8639a7b334e3395b2361a00fc043263d4f7493c540924b39",
-  "signature": "n7PSagz8Fo4knXIKUUS9bea56bnKEMVHP+5IMPS96W1Rc0+YQMoYY7Gtzw9RbAnoFFjaAKNkG2iUAeSgjvBxAQ=="
+  "latest_version": "22.4.0",
+  "download_url": "https://github.com/kasunvimukthi/Python-rpa-orchestrator/releases/download/v22.4.0/IHELM_Orchestrator_Server_22.4.0.exe",
+  "sha256": "966f1eeca5f6fe51657c0ea011be912a58f876b066a602d084a1ba500820bc4a",
+  "signature": "v4lGrZTI5GdYU6gQxx+l13g2Ni7f/vMfOuHODVt/HPMkLw7ABshJlpwi83zEX/4mmv9QYt8pSRN7xmv8/4geAw=="
 }
